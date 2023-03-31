@@ -1,0 +1,47 @@
+
+
+/*---------------- Main Code------------------- */
+
+
+
+.login-form
+{
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-bottom: 50px;
+}
+
+.book-form
+{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    margin-right: 300px;
+    
+
+}
+
+.issue-form
+{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    margin-right: 300px;
+    
+
+}
+
+.return-form
+{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    margin-right: 300px;
+    
+
+}
+
+h3
+{
+  font-weight: 700;
+}
